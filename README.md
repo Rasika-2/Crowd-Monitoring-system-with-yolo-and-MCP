@@ -78,7 +78,7 @@ This Jupyter Notebook encapsulates the entire functionality of the system:
 
 ## 📈 Future Work
 
-[cite_start]The following steps are planned to extend the system's capabilities[cite: 85, 86, 87]:
+The following steps are planned to extend the system's capabilities:
 * Containerize the service (Docker) for Cloud Native deployment.
 * Integrate the tool directly into a Large Language Model (LLM) for Tool Orchestration.
 * Add new MCP tools (e.g., tracking or density estimation) that reuse the YOLO core logic.
