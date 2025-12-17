@@ -2,17 +2,7 @@
 
 This repository contains the code and resources for a real-time crowd monitoring and autonomous alerting system. The core of the system uses the YOLOv8 object detection model for people counting and exposes this functionality as a standardized external service via the **Model Context Protocol (MCP)**.
 
----
 
-## 🎬 Project Demonstration
-
-### Presentation Video Link
-
-This video provides a complete technical walkthrough of the system architecture, code implementation, and testing methodology, including the end-to-end data flow and autonomous alerting feature.
-
-**[INSERT VIDEO TITLE/DESCRIPTION HERE, e.g., Full Technical Presentation: YOLO-MCP Crowd Counter]**
-
-**Video Link:** https://drive.google.com/file/d/1W3KV4yKXMUMvOVxouz4A8SL5ScBA12Ad/view?usp=sharing
 
 ---
 
