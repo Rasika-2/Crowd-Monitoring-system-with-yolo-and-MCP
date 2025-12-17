@@ -12,7 +12,7 @@ This video provides a complete technical walkthrough of the system architecture,
 
 **[INSERT VIDEO TITLE/DESCRIPTION HERE, e.g., Full Technical Presentation: YOLO-MCP Crowd Counter]**
 
-**Video Link:** `[PASTE YOUR YOUTUBE/VIMEO/CLOUD LINK HERE]`
+**Video Link:** https://drive.google.com/file/d/1W3KV4yKXMUMvOVxouz4A8SL5ScBA12Ad/view?usp=sharing
 
 ---
 
